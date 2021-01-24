@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a PhD candidate in Economics at the University of California, Davis. 
-Download my [CV]("../assets/MarinaLovchikova_Resume_ind.pdf")
+Download my [CV](../assets/MarinaLovchikova_Resume_ind.pdf)
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ Download my [CV]("../assets/MarinaLovchikova_Resume_ind.pdf")
 
 ## Working papers
 
-### Employed and Poor? Wages, Technological Innovations and Policies ([Job market paper]("../assets/MarinaLovchikova_JMP_Automation_Education.pdf"))
+### Employed and Poor? Wages, Technological Innovations and Policies ([Job market paper](../assets/MarinaLovchikova_JMP_Automation_Education.pdf)
 
 - I explore the effect of automation on workers' welfare in a general equilibrium model with two skill types, wage bargaining, and education. In my model, automation does not necessarily displace workers, but workers and automation could perform the same functions within a sector. To evaluate the impact of automation, I use data from European countries for model calibration and simulations. <br>
 	I demonstrate that the effects of capabilities and prices of automation on employment and wages are indeed different, and they depend on whether individuals adjust their education decisions. First, when education is not adjusted, my model shows that a decline in the price of automation increases the employment rate but lowers wages. Meanwhile, an expansion of automation capabilities could increase or decrease the employment rate, depending on the labor market institutions. <br>
@@ -43,7 +43,7 @@ economies which actively manage their capital inflows. We find that restrictions
 
 ## Teaching
 
-### University of California, Davis: [ACM MM Asia 2020](https://mmasia2020.org/).
+### University of California, Davis:
 - **Graduate Teaching assistant**  2015-2020
 <br>
 Financial Economics x2 (S20, W20)
@@ -69,10 +69,10 @@ U.S. Economic History (S16)
 Principles of Macroeconomics (F15) 
 <br>
 
-- **Instructor** "Principles of Finance" (Summer 2019, Department of Agricultural Economics; undergraduate level)  [Syllabus]("../assets/mlovchikova-syllabusARE171A_SSI19.pdf")
+- **Instructor** "Principles of Finance" (Summer 2019, Department of Agricultural Economics; undergraduate level)  [Syllabus](../assets/mlovchikova-syllabusARE171A_SSI19.pdf)
 
 ### California State university, East Bay: 
-- **Instructor** "Economic Research Practices" (Spring 2020, Graduate level) [Syllabus]("../assets/mlovchikova-econ670-syllabus.pdf").
+- **Instructor** "Economic Research Practices" (Spring 2020, Graduate level) [Syllabus](../assets/mlovchikova-econ670-syllabus.pdf).
 
 
 
