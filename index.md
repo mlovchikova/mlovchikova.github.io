@@ -9,11 +9,12 @@ Download my [CV](assets/MarinaLovchikova_Resume_ind.pdf)
 
 ## Research Interests
 
-- **Macro-Labor, Innovation and Technological Change:** 
+- **Macro-Labor, Innovation and Technological Change** 
 
 ## Working papers
 
-### Employed and Poor? Wages, Technological Innovations and Policies ([Job market paper](assets/MarinaLovchikova_JMP_Automation_Education.pdf)
+### Employed and Poor? Wages, Technological Innovations and Policies 
+<br>([Job market paper](assets/MarinaLovchikova_JMP_Automation_Education.pdf))
 
 - I explore the effect of automation on workers' welfare in a general equilibrium model with two skill types, wage bargaining, and education. In my model, automation does not necessarily displace workers, but workers and automation could perform the same functions within a sector. To evaluate the impact of automation, I use data from European countries for model calibration and simulations. <br>
 	I demonstrate that the effects of capabilities and prices of automation on employment and wages are indeed different, and they depend on whether individuals adjust their education decisions. First, when education is not adjusted, my model shows that a decline in the price of automation increases the employment rate but lowers wages. Meanwhile, an expansion of automation capabilities could increase or decrease the employment rate, depending on the labor market institutions. <br>
