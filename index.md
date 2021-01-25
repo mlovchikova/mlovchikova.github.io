@@ -72,7 +72,7 @@ Principles of Macroeconomics (F15)
 
 - **Instructor** "Principles of Finance" (Summer 2019, Department of Agricultural Economics; undergraduate level)  [Syllabus](assets/mlovchikova-syllabusARE171A_SSI19.pdf)
 
-### California State university, East Bay: 
+### California State University, East Bay: 
 - **Instructor** "Economic Research Practices" (Spring 2020, Graduate level) [Syllabus](assets/mlovchikova-econ670-syllabus.pdf).
 
 
