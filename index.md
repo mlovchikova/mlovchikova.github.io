@@ -5,16 +5,15 @@ layout: homepage
 ## About Me
 
 I am a PhD candidate in Economics at the University of California, Davis. 
-Download my [CV](assets/MarinaLovchikova_Resume_ind.pdf)
+<br>Download my [CV](assets/MarinaLovchikova_Resume_ind.pdf)
 
 ## Research Interests
 
-- **Macro-Labor, Innovation and Technological Change** 
+### Macro-Labor, Innovation and Technological Change 
 
 ## Working papers
 
-### Employed and Poor? Wages, Technological Innovations and Policies 
-([Job market paper](assets/MarinaLovchikova_JMP_Automation_Education.pdf))
+### Employed and Poor? Wages, Technological Innovations and Policies ([JMP](assets/MarinaLovchikova_JMP_Automation_Education.pdf))
 
 - I explore the effect of automation on workers' welfare in a general equilibrium model with two skill types, wage bargaining, and education. In my model, automation does not necessarily displace workers, but workers and automation could perform the same functions within a sector. To evaluate the impact of automation, I use data from European countries for model calibration and simulations. <br>
 	I demonstrate that the effects of capabilities and prices of automation on employment and wages are indeed different, and they depend on whether individuals adjust their education decisions. First, when education is not adjusted, my model shows that a decline in the price of automation increases the employment rate but lowers wages. Meanwhile, an expansion of automation capabilities could increase or decrease the employment rate, depending on the labor market institutions. <br>
@@ -34,7 +33,7 @@ economies which actively manage their capital inflows. We find that restrictions
 
 **Innovation, Competition and Declining Prices of Investment Goods** (new draft coming soon)
 - I examine a choice of innovation strategy when firm faces two shocks simultaneously: a decline in automation prices and an increase in competitive pressure. Using the Community Innovation Survey and the Input-Output tables for European countries in the 2000-2014 period, I find that industry routine intensity is positively associated with firm engagement in innovating activities. Furthermore, in response to competition, firms in such industries are more likely to engage in product rather than process innovation. Exposure to low-wage countries through intermediate input does not impact innovation activities at the firm level.
-<br> Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title "Routine Intensity, Innovation and Competition"
+<br> **Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title "Routine Intensity, Innovation and Competition"**
 
 **Innovation Policies and Labor Markets**
 
@@ -45,7 +44,7 @@ economies which actively manage their capital inflows. We find that restrictions
 ## Teaching
 
 ### University of California, Davis:
-- **Graduate Teaching assistant**  2015-2020
+- **Graduate Teaching assistant** (2015-2020)
 <br>
 Financial Economics x2 (S20, W20)
 <br>
@@ -78,4 +77,4 @@ Principles of Macroeconomics (F15)
 
 
 ## References
- - Please send your request to ucdecnjobmarket[at] ucdavis.edu
+ - Please send your request to Monica Fischer ucdecnjobmarket[at] ucdavis.edu
