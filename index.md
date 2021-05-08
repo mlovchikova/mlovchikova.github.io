@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a PhD candidate in Economics at the University of California, Davis. 
-<br>Download my [CV](assets/MarinaLovchikova_Resume_ind.pdf)
+[CV](assets/MarinaLovchikova_Resume_ind.pdf)
 
 ## Research Interests
 
@@ -74,7 +74,3 @@ Principles of Macroeconomics (F15)
 ### California State University, East Bay: 
 - **Instructor** "Economic Research Practices" (Spring 2020, Graduate level) [Syllabus](assets/mlovchikova-econ670-syllabus.pdf).
 
-
-
-## References
- - Please send your request to Monica Fischer ucdecnjobmarket[at] ucdavis.edu
