@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in Economics at the University of California, Davis. 
+I am a PhD Economist - turned Data Scientist at Covered California. 
 [CV](assets/MarinaLovchikova_Resume_ind.pdf)
 
 ## Research Interests
 
-### Macro-Labor, Innovation and Technological Change 
+### Macro-Labor, Innovation, Technological Change and all things data
 
 ## Working papers
 
-### Employed and Poor? Wages, Technological Innovations and Policies ([JMP](assets/MarinaLovchikova_JMP_Automation_Education.pdf))
+### Employed and Poor? Wages, Technological Innovations and Policies 
 
 - I explore the effect of automation on workers' welfare in a general equilibrium model with two skill types, wage bargaining, and education. In my model, automation does not necessarily displace workers, but workers and automation could perform the same functions within a sector. To evaluate the impact of automation, I use data from European countries for model calibration and simulations. <br>
 	I demonstrate that the effects of capabilities and prices of automation on employment and wages are indeed different, and they depend on whether individuals adjust their education decisions. First, when education is not adjusted, my model shows that a decline in the price of automation increases the employment rate but lowers wages. Meanwhile, an expansion of automation capabilities could increase or decrease the employment rate, depending on the labor market institutions. <br>
@@ -24,20 +24,20 @@ I am a PhD candidate in Economics at the University of California, Davis.
 #### Earlier version was presented at [94th WEAI conference](https://weai.org/assets/675.pdf) (San Francisco, 2019) and [83d MEA Annual Conference](http://mea.grinnell.edu/sites/default/files/2019%20Program%20Final.pdf) (St.Louis, 2019) with the title "Technology and Education in Frictional Labor Markets"
 
 
-### Capital Controls and the Global Financial Cycle <u><a href="../assets/MarinaLovchikova_JohannesMatschke_capital_controls_and_the_global_financial_cycle.pdf">[link]</a></u> (*with Johannes Matschke*)
+### Capital Controls and the Global Financial Cycle <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3921294">[link]</a></u> (*with Johannes Matschke*)
 - Capital flows to emerging markets are volatile and related to global financial conditions. In this paper, we examine the response of capital inflow controls to the global financial cycle. We make two contributions: First, we provide a normative justification for countercyclical capital inflow restrictions in response to international financial distress.We subsequently examine the factual response of 22 emerging market
 economies which actively manage their capital inflows. We find that restrictions tend to decrease during financial turmoil and vice versa, consistent with mitigating the exposure to international vulnerabilities.
+
+### Innovation, Competition and Declining Prices of Investment Goods 
+- I examine a choice of innovation strategy when firm faces two shocks simultaneously: a decline in automation prices and an increase in competitive pressure. Using the Community Innovation Survey and the Input-Output tables for European countries in the 2000-2014 period, I find that industry routine intensity is positively associated with firm engagement in innovating activities. Furthermore, in response to competition, firms in such industries are more likely to engage in product rather than process innovation. Exposure to low-wage countries through intermediate input does not impact innovation activities at the firm level.
+<br> **Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title "Routine Intensity, Innovation and Competition"**
 
 
 ## Work in Progress
 
-**Innovation, Competition and Declining Prices of Investment Goods** (new draft coming soon)
-- I examine a choice of innovation strategy when firm faces two shocks simultaneously: a decline in automation prices and an increase in competitive pressure. Using the Community Innovation Survey and the Input-Output tables for European countries in the 2000-2014 period, I find that industry routine intensity is positively associated with firm engagement in innovating activities. Furthermore, in response to competition, firms in such industries are more likely to engage in product rather than process innovation. Exposure to low-wage countries through intermediate input does not impact innovation activities at the firm level.
-<br> **Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title "Routine Intensity, Innovation and Competition"**
-
 **Innovation Policies and Labor Markets**
 
-**Technology Adoption: Investment or Outsourcing** (new draft coming soon)
+**Technology Adoption: Investment or Outsourcing** 
 
 **A Bayesian Decomposition of Housing Prices for US Metro Areas** (*with Johannes Matschke*)
 
