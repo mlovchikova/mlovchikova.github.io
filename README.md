@@ -10,7 +10,7 @@ This work is licensed under a [Creative Commons Zero v1.0 Universal](https://git
 
 ## Acknowledgements
 
-This website uses the source code from:
+This website uses source code from:
 
 * [yaoyao-liu/minimal-light]((https://github.com/yaoyao-liu/minimal-light)
 
