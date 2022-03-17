@@ -11,9 +11,9 @@ I am a PhD Economist - turned Data Scientist at Covered California.
 
 ### Macro-Labor, Innovation, Technological Change and all things data
 
-## Working papers
+## Projects / Working papers
 
-### Employed and Poor? Wages, Technological Innovations and Policies 
+### Employed and Poor? Wages, Automation and Policies 
 
 - I explore the effect of automation on workers' welfare in a general equilibrium model with two skill types, wage bargaining, and education. In my model, automation does not necessarily displace workers, but workers and automation could perform the same functions within a sector. To evaluate the impact of automation, I use data from European countries for model calibration and simulations. <br>
 	I demonstrate that the effects of capabilities and prices of automation on employment and wages are indeed different, and they depend on whether individuals adjust their education decisions. First, when education is not adjusted, my model shows that a decline in the price of automation increases the employment rate but lowers wages. Meanwhile, an expansion of automation capabilities could increase or decrease the employment rate, depending on the labor market institutions. <br>
@@ -28,23 +28,28 @@ I am a PhD Economist - turned Data Scientist at Covered California.
 - Capital flows to emerging markets are volatile and related to global financial conditions. In this paper, we examine the response of capital inflow controls to the global financial cycle. We make two contributions: First, we provide a normative justification for countercyclical capital inflow restrictions in response to international financial distress.We subsequently examine the factual response of 22 emerging market
 economies which actively manage their capital inflows. We find that restrictions tend to decrease during financial turmoil and vice versa, consistent with mitigating the exposure to international vulnerabilities.
 
-### Innovation, Competition and Declining Prices of Investment Goods 
+### Innovation, Competition and Automation Exposure 
 - I examine a choice of innovation strategy when firm faces two shocks simultaneously: a decline in automation prices and an increase in competitive pressure. Using the Community Innovation Survey and the Input-Output tables for European countries in the 2000-2014 period, I find that industry routine intensity is positively associated with firm engagement in innovating activities. Furthermore, in response to competition, firms in such industries are more likely to engage in product rather than process innovation. Exposure to low-wage countries through intermediate input does not impact innovation activities at the firm level.
 <br> **Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title "Routine Intensity, Innovation and Competition"**
 
 
 ## Work in Progress
 
-**Innovation Policies and Labor Markets**
+**Automation, Career Trajectory and Education (*with Muazzam Toshmatova*)**
 
 **Technology Adoption: Investment or Outsourcing** 
 
-**A Bayesian Decomposition of Housing Prices for US Metro Areas** (*with Johannes Matschke*)
 
 ## Teaching
+### California State University, East Bay: 
+- **Instructor** "Economic Research Practices" (Spring 2020, Graduate level) [Syllabus](assets/mlovchikova-econ670-syllabus.pdf).
+
 
 ### University of California, Davis:
-- **Graduate Teaching assistant** (2015-2020)
+- **Instructor** "Principles of Finance" (Summer 2019, Department of Agricultural Economics; undergraduate level)  [Syllabus](assets/mlovchikova-syllabusARE171A_SSI19.pdf)
+
+
+- **Graduate Teaching Assistant** (2015-2020)
 <br>
 Financial Economics x2 (S20, W20)
 <br>
@@ -69,8 +74,4 @@ U.S. Economic History (S16)
 Principles of Macroeconomics (F15) 
 <br>
 
-- **Instructor** "Principles of Finance" (Summer 2019, Department of Agricultural Economics; undergraduate level)  [Syllabus](assets/mlovchikova-syllabusARE171A_SSI19.pdf)
-
-### California State University, East Bay: 
-- **Instructor** "Economic Research Practices" (Spring 2020, Graduate level) [Syllabus](assets/mlovchikova-econ670-syllabus.pdf).
 
