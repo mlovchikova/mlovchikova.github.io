@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a PhD Economist - turned Data Scientist at Covered California. 
-[CV](assets/MarinaLovchikova_Resume_ind.pdf)
+[CV](assets/MarinaLovchikova_resume.pdf)
 
 ## Research Interests
 
