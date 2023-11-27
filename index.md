@@ -48,7 +48,7 @@ I am a PhD-trained Senior Researcher at Covered California.
 - Evaluated and provided feedback to large student groups 
 - Advised students on the use of scientific statistical methods, data collection and visualization techniques
 
-####List of topics and classes:
+#### List of topics and classes:
 <br>
 Economic Research Practices (Spring 2020, Graduate level) 
 <br>
