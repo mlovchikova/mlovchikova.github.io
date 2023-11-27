@@ -2,10 +2,9 @@
 layout: homepage
 ---
 
-## I am a PhD-trained Senior Researcher at Covered California. 
-[CV](assets/senior_researcher_MarinaLovchikova.pdf)
+## I am a PhD-trained Senior Researcher at Covered California. [CV](assets/senior_researcher_MarinaLovchikova.pdf)
 
-### Projects in Health Insurance
+## Projects in Health Insurance
 
 #### Effect of Email Nudges on Plan Switching and Healthcare Utilization Among Unemployment Insurance Recipients (*under review*)
 ##### Presented at [ASHEcon 2023](https://ashecon.confex.com/ashecon/2023/meetingapp.cgi/Paper/13472)
@@ -14,7 +13,7 @@ layout: homepage
 #### Impact of the American Rescue Plan Act on Affordable Care Act Marketplace Premiums and Out-of-Pocket Savings Among Unemployment Insurance Recipients
 ##### Presented at the [AcademyHealth Research Meeting 2023](https://academyhealth.confex.com/academyhealth/2023arm/meetingapp.cgi/Paper/58533)
 
-### Academic Projects 
+## Academic Projects 
 
 #### Automation, Career Trajectory and Education (*with Muazzam Toshmatova*)
 
@@ -23,9 +22,8 @@ layout: homepage
 #### Employed and Poor? Wages, Automation and Policies 
 
 - I explore the effect of automation on workers' welfare in a general equilibrium model. I demonstrate that the effects of capabilities and prices of automation on employment and wages are indeed different, and they depend on whether individuals adjust their education decisions. First, when education is not adjusted, my model shows that a decline in the price of automation increases the employment rate but lowers wages. Secondly, when education adjusts, I show that declining prices and expanding capabilities of automation increase both wages and employment rates. Finally, I find that between 2005 and 2016, advancement in automation rather than institutional changes or a shift to services accounts for a significant portion of changes in educational attainment, employment, and wage inequality.
-
-#### Presented at [SAMMF workshop](https://sammf.com/sammf-workshop-for-job-market-candidates/) for PhD Candidates (Nov, 2020) and [NABE Tec2020](https://www.nabe.com/tec2020) Poster Sessions (Nov, 2020)
-#### Earlier version was presented at [94th WEAI conference](https://weai.org/assets/675.pdf) (San Francisco, 2019) and [83d MEA Annual Conference](http://mea.grinnell.edu/sites/default/files/2019%20Program%20Final.pdf) (St.Louis, 2019) with the title "Technology and Education in Frictional Labor Markets"
+##### Presented at [SAMMF workshop](https://sammf.com/sammf-workshop-for-job-market-candidates/) for PhD Candidates (Nov, 2020) and [NABE Tec2020](https://www.nabe.com/tec2020) Poster Sessions (Nov, 2020)
+##### Earlier version was presented at [94th WEAI conference](https://weai.org/assets/675.pdf) (San Francisco, 2019) and [83d MEA Annual Conference](http://mea.grinnell.edu/sites/default/files/2019%20Program%20Final.pdf) (St.Louis, 2019) with the title "Technology and Education in Frictional Labor Markets"
 
 
 #### Capital Controls and the Global Financial Cycle <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3921294">[link]</a></u> (*with Johannes Matschke*)
@@ -33,7 +31,7 @@ layout: homepage
 
 #### Innovation, Competition and Automation Exposure 
 - I examine a choice of innovation strategy when firm faces two shocks simultaneously: a decline in automation prices and an increase in competitive pressure. Using the Community Innovation Survey and the Input-Output tables for European countries in the 2000-2014 period, I find that industry routine intensity is positively associated with firm engagement in innovating activities. Furthermore, in response to competition, firms in such industries are more likely to engage in product rather than process innovation. Exposure to low-wage countries through intermediate input does not impact innovation activities at the firm level.
-#### Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title **"Routine Intensity, Innovation and Competition"**
+##### Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title **"Routine Intensity, Innovation and Competition"**
 
 
 
