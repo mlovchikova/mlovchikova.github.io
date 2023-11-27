@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a PhD-trained Senior Researcher at Covered California. 
-[CV](assets/MarinaLovchikova_resume.pdf)
+[CV](assets/senior_researcher_MarinaLovchikova.pdf)
 
 ## Projects in Health Insurance
 
@@ -17,6 +17,10 @@ I am a PhD-trained Senior Researcher at Covered California.
 #### Presented at the [AcademyHealth Research Meeting 2023](https://academyhealth.confex.com/academyhealth/2023arm/meetingapp.cgi/Paper/58533)
 
 ## Academic Projects 
+
+### Automation, Career Trajectory and Education (*with Muazzam Toshmatova*)
+
+### Secure Communities and Health Insurance (*with Muazzam Toshmatova*)
 
 ### Employed and Poor? Wages, Automation and Policies 
 
@@ -34,9 +38,7 @@ I am a PhD-trained Senior Researcher at Covered California.
 #### Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title "Routine Intensity, Innovation and Competition"**
 
 
-### Automation, Career Trajectory and Education (*with Muazzam Toshmatova*)
 
-### Secure Communities and Health Insurance (*with Muazzam Toshmatova*)
 
 
 ## Academic Teaching / Mentoring
