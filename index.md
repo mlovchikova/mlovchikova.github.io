@@ -26,7 +26,7 @@ layout: homepage
 ##### Earlier version was presented at [94th WEAI conference](https://weai.org/assets/675.pdf) (San Francisco, 2019) and [83d MEA Annual Conference](http://mea.grinnell.edu/sites/default/files/2019%20Program%20Final.pdf) (St.Louis, 2019) with the title "Technology and Education in Frictional Labor Markets"
 
 
-#### Capital Controls and the Global Financial Cycle <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3921294">[link]</a></u> (*with Johannes Matschke*)
+#### Capital Controls and the Global Financial Cycle (*with Johannes Matschke*)
 - Capital flows to emerging markets are volatile and related to global financial conditions. In this paper, we examine the response of capital inflow controls to the global financial cycle. We make two contributions: First, we provide a normative justification for countercyclical capital inflow restrictions in response to international financial distress.We subsequently examine the factual response of 22 emerging market economies which actively manage their capital inflows. We find that restrictions tend to decrease during financial turmoil and vice versa, consistent with mitigating the exposure to international vulnerabilities.
 
 #### Innovation, Competition and Automation Exposure 
