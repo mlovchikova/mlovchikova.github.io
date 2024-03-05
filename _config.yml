@@ -10,7 +10,7 @@ canonical: mlovchikova.github.io
 #Links
 google_scholar: 
 github_link: 
-cv_link: [CV](assets/senior_researcher_MarinaLovchikova.pdf)
+cv_link: ./assets/senior_researcher_MarinaLovchikova.pdf
 linkedin: https://www.linkedin.com/in/mlovchikova
 #Images
 avatar: ./assets/headshot.jpg
