@@ -6,7 +6,7 @@ layout: homepage
 
 ### Projects in Health Insurance
 
-#### Effect of Email Nudges on Plan Switching and Healthcare Utilization Among Unemployment Insurance Recipients (*under review*)
+#### Effect of Email Nudges on Plan Switching and Healthcare Utilization Among Unemployment Insurance Recipients (*accepted at JAMA Health Forum*)
 ##### Presented at [ASHEcon 2023](https://ashecon.confex.com/ashecon/2023/meetingapp.cgi/Paper/13472)
 #### Unemployment and Health Insurance: Evidence from California’s Health Benefit Exchange (Covered California)
 ##### Presented at the [AcademyHealth Research Meeting 2022](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53770)
@@ -19,7 +19,7 @@ layout: homepage
 
 #### Secure Communities and Health Insurance (*with Muazzam Toshmatova*)
 
-#### Capital Controls and the Global Financial Cycle (*with Johannes Matschke*)
+#### [Capital Controls and the Global Financial Cycle](https://doi.org/10.1016/j.euroecorev.2024.104684) (*with Johannes Matschke*) 
 - Capital flows to emerging markets are volatile and related to global financial conditions. In this paper, we examine the response of capital inflow controls to the global financial cycle. We make two contributions: First, we provide a normative justification for countercyclical capital inflow restrictions in response to international financial distress.We subsequently examine the factual response of 22 emerging market economies which actively manage their capital inflows. We find that restrictions tend to decrease during financial turmoil and vice versa, consistent with mitigating the exposure to international vulnerabilities.
 
 #### Employed and Poor? Wages, Automation and Policies 
