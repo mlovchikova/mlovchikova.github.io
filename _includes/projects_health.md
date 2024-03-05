@@ -1,6 +1,6 @@
 ## Projects in Health Insurance
  
-  - **Steering to Better Choices: Choice Set Size and Choice of Dominated Option in Health Insurance**
+  - Steering to Better Choices: Choice Set Size and Choice of Dominated Option in Health Insurance
     <br>Notes: Examining the effect of choice partitioning on choice overload and choice error 
 
   - **Effect of Email Nudges on Plan Switching and Healthcare Utilization Among Unemployment Insurance Recipients** (*with Langou Lian and Andrew Feher* )
