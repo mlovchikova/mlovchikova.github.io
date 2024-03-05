@@ -11,7 +11,7 @@
    <br>Presented at [SAMMF workshop](https://sammf.com/sammf-workshop-for-job-market-candidates/) for PhD Candidates (Nov, 2020) and [NABE Tec2020](https://www.nabe.com/tec2020) Poster Sessions (Nov, 2020)
    <br>Earlier version was presented at [94th WEAI conference](https://weai.org/assets/675.pdf) (San Francisco, 2019) and [83d MEA Annual Conference](http://mea.grinnell.edu/sites/default/files/2019%20Program%20Final.pdf) (St.Louis, 2019) with the title "Technology and Education in Frictional Labor Markets"
 
-  - **Innovation, Competition and Automation Exposure 
+  - **Innovation, Competition and Automation Exposure**
     <br>I examine a choice of innovation strategy when firm faces two shocks simultaneously: a decline in automation prices and an increase in competitive pressure. Using the Community Innovation Survey and the Input-Output tables for European countries in the 2000-2014 period, I find that industry routine intensity is positively associated with firm engagement in innovating activities. Furthermore, in response to competition, firms in such industries are more likely to engage in product rather than process innovation. Exposure to low-wage countries through intermediate input does not impact innovation activities at the firm level.
    <br>Earlier version was presented at [15th WEAI International Conference](https://weai.org/assets/572.pdf) (Tokyo, 2019) with the title **"Routine Intensity, Innovation and Competition"**
 
