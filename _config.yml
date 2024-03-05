@@ -1,15 +1,20 @@
 title: Marina Lovchikova, PhD
 position: Senior Researcher
 affiliation: Covered California
-email: marina.lovchikova@gmail.com
+email: marina.lovchikova@covered.ca.gov
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: marina lovchikova
+description: Marina Lovchikova's website
+canonical: mlovchikova.github.io
+#Links
 google_scholar: 
 github_link: 
+cv_link: assets/senior_researcher_MarinaLovchikova.pdf
 linkedin: https://www.linkedin.com/in/mlovchikova
+#Images
 avatar: ./assets/headshot.jpg
-google_analytics: 
 favicon: 
 favicon_dark: 
-description: 
-canonical: mlovchikova.github.io
+
 remote_theme: yaoyao-liu/minimal-light

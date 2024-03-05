@@ -2,15 +2,22 @@
 layout: homepage
 ---
 
-## Hello! I am a PhD-trained Senior Researcher at Covered California. [CV](assets/senior_researcher_MarinaLovchikova.pdf)
+## Bio
+Hello! I am a PhD-trained Senior Researcher at Covered California. 
 
-### Projects in Health Insurance
 
-#### Effect of Email Nudges on Plan Switching and Healthcare Utilization Among Unemployment Insurance Recipients (*accepted at JAMA Health Forum*)
+{% include_relative _includes/projects_health.md %}
+
+
+## Projects in Health Insurance
+
+#### Steering to Better Choices: Choice Set Size and Choice of Dominated Option in Health Insurance
+
+#### Effect of Email Nudges on Plan Switching and Healthcare Utilization Among Unemployment Insurance Recipients (*with Langou Lian and Andrew Feher* )(*accepted at JAMA Health Forum*)
 ##### Presented at [ASHEcon 2023](https://ashecon.confex.com/ashecon/2023/meetingapp.cgi/Paper/13472)
 #### Unemployment and Health Insurance: Evidence from California’s Health Benefit Exchange (Covered California)
 ##### Presented at the [AcademyHealth Research Meeting 2022](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53770)
-#### Impact of the American Rescue Plan Act on Affordable Care Act Marketplace Premiums and Out-of-Pocket Savings Among Unemployment Insurance Recipients
+#### Impact of the American Rescue Plan Act on Affordable Care Act Marketplace Premiums and Out-of-Pocket Savings Among Unemployment Insurance Recipients (*with Langou Lian and Andrew Feher*) (submitted)
 ##### Presented at the [AcademyHealth Research Meeting 2023](https://academyhealth.confex.com/academyhealth/2023arm/meetingapp.cgi/Paper/58533)
 
 ### Academic Projects 
