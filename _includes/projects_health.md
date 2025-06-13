@@ -1,5 +1,8 @@
 ## Projects in Health Insurance
- 
+  - **Smooth Journey: Facilitating Transitions from Medicaid into Marketplace Plans Using Phone Outreach** (*with Emory Wolf and Isaac Menashe*) *R&R*
+  
+  - **[Improving Choices in Health Insurance: Evidence from California](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071337#paper-references-widget)** (*with Wes Burge, Godsee Joy and Carolyn McCormick*) *Working paper*
+
   - **Steering to Better Choices: Choice Set Size and Choice of Dominated Option in Health Insurance**
     <br> Presented at ASHEcon 2024
 
