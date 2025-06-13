@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Bio
-Hello! I am a PhD-trained Senior Researcher at Covered California. 
+Hello! I am a Senior Researcher at California Department of Health Care Access and Information. 
 
 
 {% include_relative _includes/projects_health.md %}
