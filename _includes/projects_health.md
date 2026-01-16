@@ -1,5 +1,7 @@
 ## Projects in Health Insurance
-  - **Smooth Journey: Facilitating Transitions from Medicaid into Marketplace Plans Using Phone Outreach** (*with Emory Wolf and Isaac Menashe*) *R&R*
+  - **[Exploring Drivers Of California Healthcare Spending Across Commercial Payers](https://hcai.ca.gov/document/ohca-issue-brief-1-exploring-drivers-of-healthcare-spending/)** (*with Alan Tran and Andrew Feher*)
+    
+  - **[Smooth Journey: Facilitating Transitions from Medicaid into Marketplace Plans Using Phone Outreach](https://academic.oup.com/healthaffairsscholar/article/3/9/qxaf163/8234109)** (*with Emory Wolf and Isaac Menashe*)
   
   - **[Improving Choices in Health Insurance: Evidence from California](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071337#paper-references-widget)** (*with Wes Burge, Godsee Joy and Carolyn McCormick*) *Working paper*
 
