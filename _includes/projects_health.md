@@ -1,4 +1,6 @@
 ## Projects in Health Insurance
+  - **[Examining Hospital Inpatient and Outpatient Spending in California 2022-2023](https://hcai.ca.gov/document/examining-hospital-inpatient-and-outpatient-spending-in-california-2022-2023/)** (*with Gozde Meseli Teague, Andrew Feher and Vishaal Pegany*)
+    
   - **[Exploring Drivers Of California Healthcare Spending Across Commercial Payers](https://hcai.ca.gov/document/ohca-issue-brief-1-exploring-drivers-of-healthcare-spending/)** (*with Alan Tran and Andrew Feher*)
     
   - **[Smooth Journey: Facilitating Transitions from Medicaid into Marketplace Plans Using Phone Outreach](https://academic.oup.com/healthaffairsscholar/article/3/9/qxaf163/8234109)** (*with Emory Wolf and Isaac Menashe*)
