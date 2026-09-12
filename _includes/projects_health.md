@@ -1,4 +1,8 @@
 ## Projects in Health Insurance
+  - **[Examining Regional Variation In Commercial Prices For Shoppable Services And Projected Savings From Reference Pricing](https://hcai.ca.gov/document/examining-regional-variation-in-commercial-prices-for-shoppable-services/)** (*with Andrew Feher, Vishaal Pegany and CJ Howard*)
+
+  - **[Examining Utilization in California’s Commercial and Medicare Advantage Markets, 2022-2024](https://hcai.ca.gov/wp-content/uploads/2026/07/Examining-Utilization-in-Californias-Commercial-and-Medicare-Advantage-Markets-2022-2024.pdf)** (*with Alan Tran, Wellington Amaral, Andrew Feher*)
+
   - **[Examining Hospital Inpatient and Outpatient Spending in California 2022-2023](https://hcai.ca.gov/document/examining-hospital-inpatient-and-outpatient-spending-in-california-2022-2023/)** (*with Gozde Meseli Teague, Andrew Feher and Vishaal Pegany*)
     
   - **[Exploring Drivers Of California Healthcare Spending Across Commercial Payers](https://hcai.ca.gov/document/ohca-issue-brief-1-exploring-drivers-of-healthcare-spending/)** (*with Alan Tran and Andrew Feher*)
