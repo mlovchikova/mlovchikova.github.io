@@ -10,8 +10,9 @@ Hello! I am a Senior Researcher at California Department of Health Care Access a
 
 {% include_relative _includes/projects_macro.md %}
 
+{% comment %}
 {% include_relative _includes/mentoring.md %}
-
+{% endcomment %}
 
 
 
