@@ -2,3 +2,24 @@
 ---
 
 @import "minimal-light";
+
+header .social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 1.5rem;
+}
+
+header .social-icons a {
+  margin: 0;
+}
+
+.miscellaneous h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.miscellaneous a {
+  display: inline-block;
+}
